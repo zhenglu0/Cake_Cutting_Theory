@@ -1,2 +1,2 @@
 # Cake_Cutting_Theory
-Special theory in computer science for fair division
+Special Topics in Computer Science Theory about fair division
